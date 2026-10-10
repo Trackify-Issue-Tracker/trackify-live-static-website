@@ -1,2 +1,2 @@
 # trackify-live-static-website
-The live static website available on https://trackify.setulparekh.com
+The live static website available on https://trackify.setulp.com
